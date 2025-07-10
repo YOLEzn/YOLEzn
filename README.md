@@ -10,20 +10,20 @@ Me chamo João victor yole, tenho 21 anos e sou natural do estado de são paulo.
 
 <img 
     align="left" 
-    alt="python"
-    title="python" 
+    alt="java"
+    title="java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
 <img 
     align="left" 
-    alt="C"
-    title="C" 
+    alt="
+    title="" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/C/C-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-original.svg" 
 />
 
 <br/>
