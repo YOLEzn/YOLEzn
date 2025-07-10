@@ -17,17 +17,7 @@ Me chamo João victor yole, tenho 21 anos e sou natural do estado de são paulo.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="
-    title="" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-original.svg" 
-/>
 
-<br/>
-<br/>
 
 ### 📊 Estatísticas
 
