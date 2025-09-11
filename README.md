@@ -1,6 +1,6 @@
 # 👩🏻‍💻 João Victor  Yole
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back-end`**
 
 Me chamo João victor yole, tenho 21 anos e sou natural do estado de são paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas  na faculdade Estácio de Sá. Siga  meu perfil do instagram  "[jo_yole](https://www.instagram.com/jo_yole/)".
 
