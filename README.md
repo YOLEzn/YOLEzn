@@ -6,26 +6,24 @@
 Me chamo João victor yole, tenho 21 anos e sou natural do estado de são paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas  na faculdade Estácio de Sá. Siga  meu perfil do instagram  "[jo_yole](https://www.instagram.com/jo_yole/)".
 
 <a href="https://www.linkedin.com/in/joaoyolevictor/" target="_blank">
-    <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conectar-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2" />
+    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-+500-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2" />
 </a>
+
 <a href="https://www.linkedin.com/in/joaoyolevictor/" target="_blank">
-    <img alt="Views" 
-         title="Views" 
-         src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Views-Visualizar-%232E7D32?logo=eye&logoColor=white&style=for-the-badge&labelColor=2E7D32" />
+    <img alt="LinkedIn Views" src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Views-+1K-%232E7D32?logo=eye&logoColor=white&style=for-the-badge&labelColor=2E7D32" />
 </a>
 
 <a href="https://instagram.com/jo_yole" target="_blank">
-    <img alt="Instagram" title="Siga-me no Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-Seguir-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F" />
+    <img alt="Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-+1K-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F" />
 </a>
 
 <a href="https://github.com/YOLEzn" target="_blank">
-    <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/YOLEzn?color=FF8C00&style=for-the-badge&labelColor=E67E00&logo=star&label=estrelas" />
+    <img alt="Estrelas" src="https://custom-icon-badges.demolab.com/github/stars/YOLEzn?color=FF8C00&style=for-the-badge&labelColor=E67E00&logo=star&label=ESTRELAS" />
 </a>
 
 <a href="https://github.com/YOLEzn" target="_blank">
-    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/YOLEzn?color=7B1FA2&labelColor=6A1B9A&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+    <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/YOLEzn?color=7B1FA2&labelColor=6A1B9A&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white" />
 </a>
- 
 </p>
 
 ---
