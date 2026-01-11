@@ -2,6 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
+
 Me chamo João victor yole, tenho 21 anos e sou natural do estado de são paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas  na faculdade Estácio de Sá. Siga  meu perfil do instagram  "[jo_yole](https://www.instagram.com/jo_yole/)".
 
 <a href="https://www.linkedin.com/in/joaoyolevictor/" target="_blank">
@@ -19,7 +20,10 @@ Me chamo João victor yole, tenho 21 anos e sou natural do estado de são paulo.
 <a href="https://github.com/YOLEzn" target="_blank">
     <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/YOLEzn?color=7B1FA2&labelColor=6A1B9A&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
 </a>
+ 
+</p>
 
+---
 
 ### 🤖 Linguagens e Tecnologias
 
