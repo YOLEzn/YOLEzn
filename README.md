@@ -9,8 +9,8 @@ Me chamo João victor yole, tenho 21 anos e sou natural do estado de são paulo.
     <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conectar-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2" />
 </a>
 <a href="https://www.linkedin.com/in/joaoyolevictor/" target="_blank">
-    <img alt="LinkedIn Views" 
-         title="Visualizações no LinkedIn" 
+    <img alt="Views" 
+         title="Views" 
          src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Views-Visualizar-%232E7D32?logo=eye&logoColor=white&style=for-the-badge&labelColor=2E7D32" />
 </a>
 
