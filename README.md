@@ -40,7 +40,7 @@ Me chamo João victor yole, tenho 21 anos e sou natural do estado de são paulo.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
     />
     
-    <img
+ <img
      align="left" 
     alt="javascript"
     title="javascript" 
@@ -48,14 +48,16 @@ Me chamo João victor yole, tenho 21 anos e sou natural do estado de são paulo.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
     />
-    <img
-     align="left" 
+    
+<img
+    align="left" 
     alt="html5"
     title="html5" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
     />
+    
 
 <img
      align="left" 
@@ -72,6 +74,24 @@ Me chamo João victor yole, tenho 21 anos e sou natural do estado de são paulo.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+    />
+
+ <img
+     align="left" 
+    alt="vscode"
+    title="vscode" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+    />
+    
+<img
+     align="left" 
+    alt="intellij"
+    title="intellij" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
     />
 
 <br/> 
