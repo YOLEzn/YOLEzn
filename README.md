@@ -6,24 +6,25 @@
 Me chamo João victor yole, tenho 21 anos e sou natural do estado de são paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas  na faculdade Estácio de Sá. Siga  meu perfil do instagram  "[jo_yole](https://www.instagram.com/jo_yole/)".
 
 <a href="https://www.linkedin.com/in/joaoyolevictor/" target="_blank">
-    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-+500-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-+500-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/joaoyolevictor/" target="_blank">
-    <img alt="LinkedIn Views" src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Views-+1K-%232E7D32?logo=eye&logoColor=white&style=for-the-badge&labelColor=2E7D32" />
+    <img alt="LinkedIn Views" src="https://img.shields.io/badge/LinkedIn%20Views-+1K-2E7D32?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/jo_yole" target="_blank">
-    <img alt="Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-+1K-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E4405F" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-+1K-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://github.com/YOLEzn" target="_blank">
-    <img alt="Estrelas" src="https://custom-icon-badges.demolab.com/github/stars/YOLEzn?color=FF8C00&style=for-the-badge&labelColor=E67E00&logo=star&label=ESTRELAS" />
+    <img alt="Estrelas" src="https://img.shields.io/github/stars/YOLEzn?style=for-the-badge&color=FF8C00&logo=github&label=ESTRELAS&logoColor=white" />
 </a>
 
 <a href="https://github.com/YOLEzn" target="_blank">
-    <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/YOLEzn?color=7B1FA2&labelColor=6A1B9A&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white" />
+    <img alt="Seguidores" src="https://img.shields.io/github/followers/YOLEzn?style=for-the-badge&color=7B1FA2&logo=github&label=SEGUIDORES&logoColor=white" />
 </a>
+
 </p>
 
 ---
