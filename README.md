@@ -100,21 +100,18 @@ Me chamo João victor yole, tenho 22 anos e sou natural do estado de são paulo.
 
 ### 📊 Estatísticas
 
+<p align="center">
+  <!-- Estatísticas Gerais do Perfil -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOLEzn&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ff3333&text_color=ffffff&icon_color=ff3333&border_color=440000" alt="Estatísticas do GitHub" height="165" />
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOLEzn&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
-  />
+  <!-- Linguagens Mais Utilizadas -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOLEzn&layout=compact&theme=tokyonight&bg_color=000000&title_color=ff3333&text_color=ffffff&border_color=440000" alt="Linguagens Mais Usadas" height="165" />
+</p>
 
-  <img 
-    align="left"
-    alt="Top Languages"
-    height="200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOLEzn&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react&locale=pt-br"
-  />
+<p align="center">
+  <!-- Sequência de Commits (Streak Stats) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOLEzn&theme=black-ice&background=000000&border=440000&stroke=ff3333&ring=ff3333&fire=ff3333&currStreakLabel=ff3333" alt="Streak de Commits" />
+</p>
 </p>
 
 
